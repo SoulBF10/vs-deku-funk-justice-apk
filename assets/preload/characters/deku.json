@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "deku idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 11,
+			"name": "deku left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 11,
+			"name": "deku down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": "deku up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 11,
+			"name": "deku right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				2
+			],
+			"anim": "smash-windup",
+			"fps": 11,
+			"name": "deku smash voice line0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "smash",
+			"loop": false,
+			"name": "deku smash0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deku",
+	"position": [
+		-480,
+		-550
+	],
+	"healthicon": "deku",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		212,
+		121
+	],
+	"camera_position": [
+		350,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
